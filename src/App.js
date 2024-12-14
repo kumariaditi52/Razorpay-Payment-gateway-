@@ -58,7 +58,7 @@ function App() {
     }
 
     const options = {
-      key: 'rzp_test_GcZZFDPP0jHtC4',
+      key: 'rzp_test_iZMyMyHStxwBVR',
       amount: amount,
       currency: 'INR',
       name: "papaya coders",
@@ -69,7 +69,7 @@ function App() {
       },
       prefill: {
         name: "papaya coders",
-        email: "papayacoders@gmail.com"
+        email: "aditikumari5281@gmail.com"
       },
       theme: {
         color: "#F4C430"
